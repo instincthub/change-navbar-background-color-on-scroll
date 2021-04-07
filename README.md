@@ -1,5 +1,5 @@
 # Change Navbar Background Color On Scroll 
-Author: [Noah Olatoye] (https://twitter.com/noaholatoye)
+Author: [Noah Olatoye](https://twitter.com/noaholatoye)
 
 *This tutorial will target a navbar element on the page and change both background color and text color when the user scroll 100px from top of the page.*
 
